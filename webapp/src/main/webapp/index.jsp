@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h1> Thank you ogun, Happy Learning </h1>
+    <h1> Thank you ogun uni, Happy Learning </h1>
 
   </div>
 </form>
