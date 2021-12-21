@@ -20,7 +20,7 @@
     <input type="Şifre" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Şİfre</b></label>
+    <label for="psw-repeat"><b>Repeat Sifre </b></label>
     <input type="Şifre" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou muhammed u, Happy Learning </h1>
+   <h1> Thank you fazıl, Happy Learning </h1>
 
   
 </form>
