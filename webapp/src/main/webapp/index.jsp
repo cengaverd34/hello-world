@@ -17,11 +17,11 @@
     <br>
 
     <label for="psw"><b>Şifre</b></label>
-    <input type="Şifre" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="sifre" placeholder="Enter sifre" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Sifre </b></label>
-    <input type="Şifre" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>Repeat sifre </b></label>
+    <input type="sifre" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
