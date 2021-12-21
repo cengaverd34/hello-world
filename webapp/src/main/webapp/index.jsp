@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Şifre</b></label>
+    <label for="psw"><b>sifre</b></label>
     <input type="sifre" placeholder="Enter sifre" name="psw" id="psw" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you fazıl, Happy Learning </h1>
+   <h1> Thank you fazil, Happy Learning </h1>
 
   
 </form>
